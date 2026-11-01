@@ -88,7 +88,7 @@
         <cs.exec-maven-plugin.version>3.2.0</cs.exec-maven-plugin.version>
 
         <!-- Logging versions -->
-        <cs.log4j.version>2.19.0</cs.log4j.version>
+        <cs.log4j.version>2.25.4</cs.log4j.version>
         <cs.reload4j.version>1.2.25</cs.reload4j.version>
         <cs.log4j.extras.version>1.2.17</cs.log4j.extras.version>
 
@@ -98,12 +98,12 @@
         <cs.commons-collections.version>4.4</cs.commons-collections.version>
         <cs.commons-compress.version>1.26.0</cs.commons-compress.version>
         <cs.commons-exec.version>1.3</cs.commons-exec.version>
-        <cs.commons-fileupload.version>1.4</cs.commons-fileupload.version>
+        <cs.commons-fileupload.version>1.6.0</cs.commons-fileupload.version>
         <cs.commons-httpclient.version>3.1</cs.commons-httpclient.version>
-        <cs.commons-io.version>2.8.0</cs.commons-io.version>
-        <cs.commons-lang3.version>3.11</cs.commons-lang3.version>
+        <cs.commons-io.version>2.14.0</cs.commons-io.version>
+        <cs.commons-lang3.version>3.18.0</cs.commons-lang3.version>
         <cs.commons-logging.version>1.2</cs.commons-logging.version>
-        <cs.commons-net.version>3.7.2</cs.commons-net.version>
+        <cs.commons-net.version>3.13.0</cs.commons-net.version>
         <cs.commons-validator.version>1.6</cs.commons-validator.version>
         <cs.configuration.version>1.10</cs.configuration.version>
         <cs.daemon.version>1.3.3</cs.daemon.version>
@@ -123,35 +123,35 @@
         <cs.junit.jupiter.version>5.9.1</cs.junit.jupiter.version>
         <cs.guava-testlib.version>18.0</cs.guava-testlib.version>
         <cs.mockito.version>5.16.1</cs.mockito.version>
-        <cs.testng.version>7.1.0</cs.testng.version>
+        <cs.testng.version>7.12.0</cs.testng.version>
         <cs.wiremock.version>2.27.2</cs.wiremock.version>
         <cs.xercesImpl.version>2.12.2</cs.xercesImpl.version>
         <cs.assertj.version>3.23.1</cs.assertj.version>
 
         <!-- Dependencies versions -->
-        <cs.amqp-client.version>5.17.0</cs.amqp-client.version>
+        <cs.amqp-client.version>5.37.0</cs.amqp-client.version>
         <cs.apache-cloudstack-java-client.version>1.0.9</cs.apache-cloudstack-java-client.version>
         <cs.aspectjrt.version>1.9.19</cs.aspectjrt.version>
         <cs.aws.sdk.version>1.12.795</cs.aws.sdk.version>
         <cs.axiom.version>1.2.8</cs.axiom.version>
-        <cs.axis2.version>1.6.4</cs.axis2.version>
+        <cs.axis2.version>2.0.2</cs.axis2.version>
         <cs.batik.version>1.14</cs.batik.version>
-        <cs.bcprov.version>1.83</cs.bcprov.version>
+        <cs.bcprov.version>1.84</cs.bcprov.version>
         <cs.cglib.version>3.3.0</cs.cglib.version>
-        <cs.checkstyle-lib.version>8.18</cs.checkstyle-lib.version>
+        <cs.checkstyle-lib.version>14.4.0</cs.checkstyle-lib.version>
         <cs.cron-utils.version>9.2.0</cs.cron-utils.version>
         <cs.cxf.version>3.2.14</cs.cxf.version>
         <cs.ehcache.version>2.6.11</cs.ehcache.version>
         <cs.globodns-client.version>0.0.27</cs.globodns-client.version>
         <cs.gmavenplus.version>3.0.2</cs.gmavenplus.version>
         <cs.google-http-client>1.42.3</cs.google-http-client>
-        <cs.groovy.version>2.4.17</cs.groovy.version>
+        <cs.groovy.version>3.0.25</cs.groovy.version>
         <cs.gson.version>2.10.1</cs.gson.version>
-        <cs.guava.version>31.1-jre</cs.guava.version>
+        <cs.guava.version>33.7.1-jre</cs.guava.version>
         <cs.httpclient.version>4.5.14</cs.httpclient.version>
         <cs.httpcore.version>4.4.16</cs.httpcore.version>
         <cs.influxdb-java.version>2.25</cs.influxdb-java.version>
-        <cs.jackson.version>2.13.3</cs.jackson.version>
+        <cs.jackson.version>2.18.11</cs.jackson.version>
         <cs.jasypt.version>1.9.3</cs.jasypt.version>
         <cs.java-ipv6.version>0.17</cs.java-ipv6.version>
         <cs.javassist.version>3.27.0-GA</cs.javassist.version>
@@ -170,7 +170,7 @@
         <cs.jsch.version>0.1.55</cs.jsch.version>
         <cs.json.version>20231013</cs.json.version>
         <cs.jstl.version>1.2</cs.jstl.version>
-        <cs.kafka-clients.version>2.7.0</cs.kafka-clients.version>
+        <cs.kafka-clients.version>3.9.2</cs.kafka-clients.version>
         <cs.libvirt-java.version>0.5.3</cs.libvirt-java.version>
         <cs.mail.version>1.5.0-b01</cs.mail.version>
         <cs.mustache.version>0.9.14</cs.mustache.version>
@@ -184,19 +184,19 @@
         <cs.servicemix.version>3.4.4_1</cs.servicemix.version>
         <cs.servlet.version>4.0.1</cs.servlet.version>
         <cs.tink.version>1.7.0</cs.tink.version>
-        <cs.tomcat-embed-core.version>10.0.22</cs.tomcat-embed-core.version>
+        <cs.tomcat-embed-core.version>11.0.27</cs.tomcat-embed-core.version>
         <cs.trilead.version>build-217-jenkins-27</cs.trilead.version>
         <cs.vmware.api.version>8.0</cs.vmware.api.version>
         <cs.winrm4j.version>0.5.0</cs.winrm4j.version>
         <cs.xapi.version>8.1.0</cs.xapi.version>
         <cs.xmlrpc.version>3.1.3</cs.xmlrpc.version>
-        <cs.xstream.version>1.4.20</cs.xstream.version>
-        <org.springframework.version>5.3.26</org.springframework.version>
+        <cs.xstream.version>1.4.21</cs.xstream.version>
+        <org.springframework.version>6.1.20</org.springframework.version>
         <cs.ini.version>0.5.4</cs.ini.version>
         <cs.caffeine.version>3.1.7</cs.caffeine.version>
         <cs.protobuf.version>3.25.5</cs.protobuf.version>
         <cs.minio.version>8.6.0</cs.minio.version>
-        <cs.opentelemetry.version>1.51.0</cs.opentelemetry.version>
+        <cs.opentelemetry.version>1.67.0</cs.opentelemetry.version>
         <cs.opentelemetry-instrumentation.version>2.16.0</cs.opentelemetry-instrumentation.version>
     </properties>
 
@@ -702,7 +702,7 @@
             <dependency>
                 <groupId>org.owasp.esapi</groupId>
                 <artifactId>esapi</artifactId>
-                <version>2.1.0.1</version>
+                <version>2.7.0.0</version>
                 <exclusions>
                     <exclusion>
                         <groupId>log4j</groupId>
